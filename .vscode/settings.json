@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "shidi-game.sln"
+    "dotnet.defaultSolution": "shidi-game - vTools.sln"
 }
